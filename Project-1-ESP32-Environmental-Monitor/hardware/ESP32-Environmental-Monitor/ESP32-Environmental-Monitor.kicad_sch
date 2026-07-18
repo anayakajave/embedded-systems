@@ -2084,7 +2084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 169.672 90.17 90)
 			(hide yes)
 			(show_name no)
@@ -2603,7 +2603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 247.142 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -2683,7 +2683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 157.48 130.81 0)
 			(hide yes)
 			(show_name no)

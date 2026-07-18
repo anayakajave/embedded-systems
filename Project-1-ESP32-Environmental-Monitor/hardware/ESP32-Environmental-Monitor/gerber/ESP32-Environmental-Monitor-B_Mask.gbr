@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
+%TF.CreationDate,2026-07-18T14:47:36+05:30*%
+%TF.ProjectId,ESP32-Environmental-Monitor,45535033-322d-4456-9e76-69726f6e6d65,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.4) date 2026-07-18 14:47:36*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.500000X1.500000*%
+%ADD11C,1.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,U1*%
+X121000000Y-101880000D03*
+D11*
+X121000000Y-104420000D03*
+X121000000Y-106960000D03*
+X121000000Y-109500000D03*
+%TD*%
+M02*
